@@ -1,0 +1,10 @@
+tensorflow
+pandas
+numpy
+matplotlib
+scikit-learn
+kaggle
+pillow
+ipykernel
+python-telegram-bot
+python-dotenv   
