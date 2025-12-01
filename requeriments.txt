@@ -1,4 +1,5 @@
 tensorflow
+kaggle
 pandas
 numpy
 matplotlib
